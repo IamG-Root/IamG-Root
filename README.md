@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
+<!--
 <h1 align="center">Hi 👋, I'm Simone Castagnoli</h1>
 <h3 align="center">A passionate junior developer from Italy</h3>
 
@@ -19,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamg-root&show_icons=true&locale=en&layout=compact" alt="iamg-root" /></p>
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljttlo5s000608l6gz7c2umr/stats?cursusId=21&coalitionId=126" alt="scastagn's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljttlo5s000608l6gz7c2umr/stats?cursusId=21&coalitionId=126" alt="scastagn's 42 stats" /></a>-->
 <!---
 IamG-Root/IamG-Root is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
